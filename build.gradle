@@ -13,7 +13,7 @@ plugins {
     id 'application'
 }
 application {
-    mainClass = 'com.netsensia.rivalchess.eve.Downloader'
+    mainClass = 'com.netsensia.rivalchess.pgn.OpeningYears'
 }
 
 group = "com.netsensia.rivalchess"

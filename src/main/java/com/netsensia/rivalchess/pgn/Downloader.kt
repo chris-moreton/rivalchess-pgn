@@ -1,4 +1,4 @@
-package com.netsensia.rivalchess.eve
+package com.netsensia.rivalchess.pgn
 
 import java.io.File
 import java.net.URL
